@@ -1,4 +1,7 @@
 # Ultrasonic_sensor_programmed(FPGA)
+![image](https://github.com/hhhtzq/Ultrasonic_sensor_FPGA_programmed/blob/master/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-02-11%2010.40.58.png)
+
+ 
 ## Task 1
  
 Implement a VHDL module  that generates a clock with a period of 1μs from the board clock, which is currently 100 MHz on the Basys 3 board.
