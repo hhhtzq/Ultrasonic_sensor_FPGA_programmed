@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Mar 13 13:12:07 2019
+# Process ID: 9368
+# Current directory: D:/Embed computing/VHDL/range_snesor/range_snesor.runs/impl_2
+# Command line: vivado.exe -log range_sensor.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source range_sensor.tcl -notrace
+# Log file: D:/Embed computing/VHDL/range_snesor/range_snesor.runs/impl_2/range_sensor.vdi
+# Journal file: D:/Embed computing/VHDL/range_snesor/range_snesor.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source range_sensor.tcl -notrace
